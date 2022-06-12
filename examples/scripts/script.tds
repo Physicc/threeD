@@ -1,0 +1,9 @@
+def add(a: int, b: int) -> int:
+	let a := "Hello World\t This is a test"
+	// This is a line comment
+	/* This is
+		a block comment */
+	let b := true
+	let problemString := "Hello World /* Comment */"
+	let problemString2 := "Hello World //Comment"
+	let problemString3 := "Hello escape \" \'a\'\" yes""
